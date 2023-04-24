@@ -1,0 +1,108 @@
+/* TEXT */
+.text-blue {
+  color: var(--primary-blue-color);
+}
+.text-center {
+  text-align: center;
+}
+.text-white {
+  color: #fcf6f5;
+}
+.text-white2 {
+  color: #fff;
+}
+.btn2 {
+  color: var(--primary-orenge-color);
+}
+
+/* FLEX */
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.display-none {
+  display: none;
+}
+
+/* MARGIN */
+.mb-93 {
+  margin-bottom: 9.3rem;
+}
+.mb-62 {
+  margin-bottom: 6.2rem;
+}
+.mb-53 {
+  margin-bottom: 5.3rem;
+}
+.mb-50 {
+  margin-bottom: 5rem;
+}
+.mb-48 {
+  margin-bottom: 4.8rem;
+}
+.mb-29 {
+  margin-bottom: 2.9rem;
+}
+.mb-26 {
+  margin-bottom: 2.6rem;
+}
+.mb-19 {
+  margin-bottom: 1.9rem;
+}
+.mb-9 {
+  margin-bottom: 0.9rem;
+}
+.mb-8 {
+  margin-bottom: 0.8rem;
+}
+.mr-8 {
+  margin-right: 0.8rem;
+}
+.mr-106 {
+  margin-right: 10.6rem;
+}
+
+/* GAP */
+.gap-34 {
+  gap: 3.4rem;
+}
+.gap-15 {
+  gap: 1.5rem;
+}
+
+/* OPACITY */
+.opacity {
+  opacity: 0.5;
+}
+
+/* BUTTON */
+.primary-btn {
+  background-color: var(--primary-orenge-color);
+}
+.btn {
+  padding: 1.2rem 3.2rem;
+  border-radius: 2.2rem;
+  box-shadow: 0px 15px 15px -10px #db5943;
+}
+.btn2 {
+  background-color: #fff;
+}
+.btn:active {
+  opacity: 0.5;
+}
+button {
+  background-color: var(--primary-orenge-color);
+  border-radius: 3.9rem;
+  padding: 0.8rem 2.3rem 0.8rem 2.3rem;
+}

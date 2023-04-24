@@ -1,0 +1,80 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+.font-light {
+  font-weight: var(--font-light);
+}
+.font-bold {
+  font-weight: var(--font-bold);
+}
+.font-medium {
+  font-weight: var(--font-medium);
+}
+.font-regular {
+  font-weight: var(--font-regular);
+}
+.font-extra-bold {
+  font-weight: var(--font-extra-bold);
+}
+
+.heading1 {
+  font-size: 4rem;
+  line-height: 5rem;
+}
+.heading2 {
+  font-size: 3rem;
+  line-height: 4.5rem;
+}
+.heading3 {
+  font-size: 1.6rem;
+  line-height: 2.3rem;
+}
+.body1 {
+  font-size: 1.4rem;
+  line-height: 2.8rem;
+}
+.body2 {
+  font-size: 1.5rem;
+  line-height: 2.2rem;
+}
+.body3 {
+  font-size: 1.6rem;
+  line-height: 1.3rem;
+}
+.container {
+  width: 100%;
+  padding: 0 2.5rem;
+}
+
+/* medias */
+
+@media (min-width: 1200px) {
+  .heading1 {
+    font-size: 5.6rem;
+    line-height: 6.4rem;
+  }
+  .heading2 {
+    font-size: 4rem;
+    line-height: 4.4rem;
+  }
+  .heading3 {
+    font-size: 1.6rem;
+    line-height: 2.3rem;
+  }
+  .body1 {
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+  }
+  .body2 {
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+  }
+  .body3 {
+    font-size: 1.3rem;
+    line-height: 1.9rem;
+  }
+}
